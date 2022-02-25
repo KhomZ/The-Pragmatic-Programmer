@@ -1,9 +1,9 @@
 # The-Pragmatic-Programmer
 The Pragmatic Programmer YOUR JOURNEY TO MASTERY BY DAVE THOMAS, ANDY HUNT Version: P1.0 (September 13, 2019)
 
-<DAVID THOMAS> 
+## DAVID THOMAS
   & 
- <ANDREW HUNT>
+## ANDREW HUNT
 
 Many of the designations used by manufacturers
 and sellers to distinguish their products are
